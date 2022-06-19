@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/chp3/Retirement.java" afterDir="false" />
+    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="Retirement class added">
+      <change afterPath="$PROJECT_DIR$/src/main/chp3/Retirement2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core_Java_Book_Codes.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655641070672</updated>
       <workItem from="1655641072220" duration="1116000" />
-      <workItem from="1655665997704" duration="1891000" />
+      <workItem from="1655665997704" duration="2505000" />
     </task>
+    <task id="LOCAL-00001" summary="Retirement class added">
+      <created>1655667992614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655667992614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Retirement class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retirement class added" />
   </component>
 </project>
