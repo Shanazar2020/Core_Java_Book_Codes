@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="BigIntegerTest class added">
-      <change afterPath="$PROJECT_DIR$/src/main/chp3/LotteryDrawing.java" afterDir="false" />
+    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="LotteryDrawing class was added.">
+      <change afterPath="$PROJECT_DIR$/src/main/chp3/CompoundInterest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <updated>1655641070672</updated>
       <workItem from="1655641072220" duration="1116000" />
       <workItem from="1655665997704" duration="3472000" />
-      <workItem from="1655750575076" duration="924000" />
+      <workItem from="1655750575076" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="Retirement class added">
       <created>1655667992614</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655669346964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="LotteryDrawing class was added.">
+      <created>1655751628285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655751628285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +137,7 @@
     <MESSAGE value="Retirement class added" />
     <MESSAGE value="Retirement2 class added" />
     <MESSAGE value="BigIntegerTest class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="BigIntegerTest class added" />
+    <MESSAGE value="LotteryDrawing class was added." />
+    <option name="LAST_COMMIT_MESSAGE" value="LotteryDrawing class was added." />
   </component>
 </project>
