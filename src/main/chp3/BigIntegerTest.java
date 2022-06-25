@@ -1,5 +1,7 @@
 package main.chp3;
 
+import main.chp4.PlayGround;
+
 import java.math.*;
 import java.util.*;
 
@@ -26,5 +28,19 @@ public class BigIntegerTest {
         }
 
         System.out.println("Your odds are 1 in " + lotteryOdds + ". Good luck!");
+    }
+
+    public static void test(){
+        PlayGround pl = new PlayGround();
+        pl.publicVar = 234d;
+//        pl.defaultVar = 23d;
+    }
+}
+
+class Try extends PlayGround{
+    Try(){
+        super.protectedVar = 34d;
+        super.publicVar = 23d;
+//        super.defaultVar = 23d;
     }
 }

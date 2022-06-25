@@ -24,9 +24,9 @@ public class EmployeeTest {
 }
 
 class Employee{
-    private String name;
+    private final String name;
     private double salary;
-    private LocalDate hireDay;
+    private final LocalDate hireDay;
 
     public Employee(String name, double salary, int year, int month, int day){
         this.name = name;
@@ -48,5 +48,11 @@ class Employee{
 
     public void raiseSalary(double byPercent){
         salary += salary * (byPercent / 100);
+    }
+    public static void test(){
+        PlayGround pl = new PlayGround();
+        pl.publicVar = 2332d;
+        pl.protectedVar  = 2332d;
+        pl.defaultVar = 2332d;
     }
 }

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="CalendarTest class was added.">
-      <change afterPath="$PROJECT_DIR$/src/main/chp4/EmployeeTest.java" afterDir="false" />
+    <list default="true" id="4b93b879-5f46-4421-a1ae-dd4e68ced93d" name="Changes" comment="EmployeeTest class was added.">
+      <change afterPath="$PROJECT_DIR$/src/main/chp4/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/chp3/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/chp3/BigIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/chp4/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/chp4/EmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,13 +45,39 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.StaticTest">
+    <configuration name="EmployeeOfStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chp4.EmployeeOfStaticTest" />
+      <module name="Core_Java_Book_Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chp4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="Core_Java_Book_Codes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.chp4.StaticTest" />
+      <module name="Core_Java_Book_Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.chp4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,6 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.EmployeeOfStaticTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main.chp3.Main" />
       </list>
@@ -88,7 +119,8 @@
       <workItem from="1655665997704" duration="3472000" />
       <workItem from="1655750575076" duration="4722000" />
       <workItem from="1655839115287" duration="1705000" />
-      <workItem from="1656094184917" duration="3883000" />
+      <workItem from="1656094184917" duration="5566000" />
+      <workItem from="1656146709037" duration="11885000" />
     </task>
     <task id="LOCAL-00001" summary="Retirement class added">
       <created>1655667992614</created>
@@ -139,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655846195123</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="EmployeeTest class was added.">
+      <created>1656099053808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656099053808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +203,7 @@
     <MESSAGE value="CompoundInterest class was added." />
     <MESSAGE value="LotteryArray class was added." />
     <MESSAGE value="CalendarTest class was added." />
-    <option name="LAST_COMMIT_MESSAGE" value="CalendarTest class was added." />
+    <MESSAGE value="EmployeeTest class was added." />
+    <option name="LAST_COMMIT_MESSAGE" value="EmployeeTest class was added." />
   </component>
 </project>
